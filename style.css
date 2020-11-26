@@ -1,0 +1,28 @@
+
+
+h1{
+    text-align: center;
+}
+
+
+body{
+    text-align: center;
+    background-color: chartreuse;
+}
+
+div{
+    margin-top: 15px;
+}
+.image-section{
+    display: flex;
+    justify-content: center;
+}
+
+.section-style{
+    margin-right: 25px;
+    margin-right: 25px;
+}
+img{
+    height: 200px;
+}
+
